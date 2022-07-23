@@ -1,5 +1,3 @@
-{:toc}
-
 # Data Structure I
 
 | Title                                                                                                  | Solution                                                  |
