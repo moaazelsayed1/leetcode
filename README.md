@@ -26,3 +26,5 @@
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./AlgorithmI/167.TwoSumII-InputArrayIsSorted.cpp) |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/)                                       | [C++](./AlgorithmI/344.ReverseString.cpp)               |
 | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)         | [C++](./AlgorithmI/557.ReverseWordsinaStringIII.cpp)    |
+| [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                 | [C++](./AlgorithmI/876.MiddleoftheLinkedList.cpp)       |
+| [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)    | [C++](./AlgorithmI/19.RemoveNthNodeFromEndofList.cpp)   |
