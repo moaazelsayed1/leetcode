@@ -10,6 +10,8 @@
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./DataStructureI/121.BestTimetoBuyandSellStock.cpp) |
 | [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                           | [C++](./DataStructureI/566.ReshapetheMatrix.cpp)          |
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                              | [C++](./DataStructureI/118.Pascal'sTriangle.cpp)          |
+| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                        | [C++](./DataStructureI/36.ValidSudoku.cpp)                |
+| [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                            | [C++](./DataStructureI/74.Searcha2DMatrix.cpp)            |
 
 # Algorithm I
 
