@@ -35,3 +35,5 @@
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                            | [C++](./AlgorithmI/19.RemoveNthNodeFromEndofList.cpp)                |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./AlgorithmI/3.LongestSubstringWithoutRepeatingCharacters.cpp) |
 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                 | [C++](./AlgorithmI/567.PermutationinString.cpp)                      |
+| [733. Flood Fill](https://leetcode.com/problems/flood-fill/)                                                                       | [C++](./AlgorithmI/733.FloodFill.cpp)                                |
+| [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                                       | [C++](./AlgorithmI/695.MaxAreaofIsland.cpp)                          |
