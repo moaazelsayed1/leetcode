@@ -17,6 +17,8 @@
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                           | [C++](./DataStructureI/242.ValidAnagram.cpp)                  |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                   | [C++](./DataStructureI/141.LinkedListCycle.cpp)               |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                          | [C++](./DataStructureI/21.MergeTwoSortedLists.cpp)            |
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                               | [C++](./DataStructureI/206.ReverseLinkedList.cpp)             |
+| [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | [C++](./DataStructureI/83.RemoveDuplicatesfromSortedList.cpp) |
 
 # Algorithm I
 
