@@ -15,6 +15,8 @@
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](./DataStructureI/387.FirstUniqueCharacterinaString.cpp) |
 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/)                                               | [C++](./DataStructureI/383.RansomNote.cpp)                    |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                           | [C++](./DataStructureI/242.ValidAnagram.cpp)                  |
+| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                   | [C++](./DataStructureI/141.LinkedListCycle.cpp)               |
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                          | [C++](./DataStructureI/21.MergeTwoSortedLists.cpp)            |
 
 # Algorithm I
 
