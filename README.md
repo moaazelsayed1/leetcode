@@ -19,10 +19,11 @@
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                          | [C++](./DataStructureI/21.MergeTwoSortedLists.cpp)            |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                               | [C++](./DataStructureI/206.ReverseLinkedList.cpp)             |
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | [C++](./DataStructureI/83.RemoveDuplicatesfromSortedList.cpp) |
-| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./DataStructureI/20.ValidParentheses.cpp)|
-| [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C++](./DataStructureI/232.ImplementQueueusingStacks.cpp)|
-
-
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                    | [C++](./DataStructureI/20.ValidParentheses.cpp)               |
+| [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)             | [C++](./DataStructureI/232.ImplementQueueusingStacks.cpp)     |
+| [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)         | [C++](./DataStructureI/144.BinaryTreePreorderTraversal.cpp)   |
+| [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)            | [C++](./DataStructureI/94.BinaryTreeInorderTraversal.cpp)     |
+| [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)       | [C++](./DataStructureI/144.BinaryTreePreorderTraversal.cpp)   |
 
 # Algorithm I
 
