@@ -20,6 +20,7 @@
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                               | [C++](./DataStructureI/206.ReverseLinkedList.cpp)             |
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | [C++](./DataStructureI/83.RemoveDuplicatesfromSortedList.cpp) |
 
+
 # Algorithm I
 
 | Title                                                                                                                              | Solution                                                             |
@@ -39,3 +40,5 @@
 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                 | [C++](./AlgorithmI/567.PermutationinString.cpp)                      |
 | [733. Flood Fill](https://leetcode.com/problems/flood-fill/)                                                                       | [C++](./AlgorithmI/733.FloodFill.cpp)                                |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                                       | [C++](./AlgorithmI/695.MaxAreaofIsland.cpp)                          |
+| [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)                                               | [C++](./AlgorithmI/617.MergeTwoBinaryTrees.cpp)                      |
+| [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)     | [C++](./AlgorithmI/116.PopulatingNextRightPointersinEachNode.cpp)    |
