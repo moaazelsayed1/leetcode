@@ -24,6 +24,9 @@
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)         | [C++](./DataStructureI/144.BinaryTreePreorderTraversal.cpp)   |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)            | [C++](./DataStructureI/94.BinaryTreeInorderTraversal.cpp)     |
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)       | [C++](./DataStructureI/144.BinaryTreePreorderTraversal.cpp)   |
+| [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)   | [C++](./DataStructureI/102.BinaryTreeLevelOrderTraversal.cpp) |
+| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)             | [C++](./DataStructureI/104.MaximumDepthofBinaryTree.cpp)      |
+| [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                         | [C++](./DataStructureI/101.SymmetricTree.cpp)                 |
 
 # Algorithm I
 
