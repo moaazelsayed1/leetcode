@@ -49,3 +49,5 @@
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                                       | [C++](./AlgorithmI/695.MaxAreaofIsland.cpp)                          |
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)                                               | [C++](./AlgorithmI/617.MergeTwoBinaryTrees.cpp)                      |
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)     | [C++](./AlgorithmI/116.PopulatingNextRightPointersinEachNode.cpp)    |
+| [542. 01 Matrix](https://leetcode.com/problems/01-matrix/)                                                                         | [C++](./AlgorithmI/542.01Matrix.cpp)                                 |
+| [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                             | [C++](./AlgorithmI/994.RottingOranges.cpp)                           |
