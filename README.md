@@ -51,3 +51,5 @@
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)     | [C++](./AlgorithmI/116.PopulatingNextRightPointersinEachNode.cpp)    |
 | [542. 01 Matrix](https://leetcode.com/problems/01-matrix/)                                                                         | [C++](./AlgorithmI/542.01Matrix.cpp)                                 |
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                             | [C++](./AlgorithmI/994.RottingOranges.cpp)                           |
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                | [C++](./AlgorithmI/21.MergeTwoSortedLists.cpp)                       |
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                     | [C++](./AlgorithmI/206.ReverseLinkedList.cpp)                        |
