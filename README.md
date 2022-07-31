@@ -27,6 +27,8 @@
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)   | [C++](./DataStructureI/102.BinaryTreeLevelOrderTraversal.cpp) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)             | [C++](./DataStructureI/104.MaximumDepthofBinaryTree.cpp)      |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                         | [C++](./DataStructureI/101.SymmetricTree.cpp)                 |
+| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                 | [C++](./DataStructureI/226.InvertBinaryTree.cpp)              |
+| [112. Path Sum](https://leetcode.com/problems/path-sum/)                                                     | [C++](./DataStructureI/112.PathSum.cpp)                       |
 
 # Algorithm I
 
