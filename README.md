@@ -61,3 +61,5 @@
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                              | [C++](./AlgorithmI/70.ClimbingStairs.cpp)                            |
 | [198. House Robber](https://leetcode.com/problems/house-robber/)                                                                   | [C++](./AlgorithmI/198.HouseRobber.cpp)                              |
 | [120. Triangle](https://leetcode.com/problems/triangle/)                                                                           | [C++](./AlgorithmI/120.Triangle.cpp)                                 |
+| [231. Power of Two](https://leetcode.com/problems/power-of-two/) | [C++](./AlgorithmI/231.PowerofTwo.cpp)|
+| [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](./AlgorithmI/191.Numberof1Bits.cpp)|
