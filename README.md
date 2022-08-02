@@ -58,3 +58,6 @@
 | [77. Combinations](https://leetcode.com/problems/combinations/)                                                                    | [C++](./AlgorithmI/77.Combinations.cpp)                              |
 | [46. Permutations](https://leetcode.com/problems/permutations/)                                                                    | [C++](./AlgorithmI/46.Permutations.cpp)                              |
 | [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)                                             | [C++](./AlgorithmI/784.LetterCasePermutation.cpp)                    |
+| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                              | [C++](./AlgorithmI/70.ClimbingStairs.cpp)                            |
+| [198. House Robber](https://leetcode.com/problems/house-robber/)                                                                   | [C++](./AlgorithmI/198.HouseRobber.cpp)                              |
+| [120. Triangle](https://leetcode.com/problems/triangle/)                                                                           | [C++](./AlgorithmI/120.Triangle.cpp)                                 |
