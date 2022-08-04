@@ -35,7 +35,7 @@
 | [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)                                         | [C++](./DataStructureI/653.TwoSumIV-InputisaBST.cpp)                    |
 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++](./DataStructureI/235.LowestCommonAncestorofaBinarySearchTree.cpp) |
 
-# [Data Structure I](https://leetcode.com/study-plan/data-structure/)
+# [Data Structure II](https://leetcode.com/study-plan/data-structure/)
 
 | Title                                                                    | Solution                                         |
 | ------------------------------------------------------------------------ | ------------------------------------------------ |
