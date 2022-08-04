@@ -35,6 +35,14 @@
 | [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)                                         | [C++](./DataStructureI/653.TwoSumIV-InputisaBST.cpp)                    |
 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++](./DataStructureI/235.LowestCommonAncestorofaBinarySearchTree.cpp) |
 
+# [Data Structure I](https://leetcode.com/study-plan/data-structure/)
+
+| Title                                                                    | Solution                                         |
+| ------------------------------------------------------------------------ | ------------------------------------------------ |
+| [136. Single Number](https://leetcode.com/problems/single-number/)       | [C++](./DataStructureII/136.SingleNumber.cpp)    |
+| [169. Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./DataStructureII/169.MajorityElement.cpp) |
+| [15. 3Sum](https://leetcode.com/problems/3sum/)                          | [C++](./DataStructureII)                         |
+
 # [Algorithm I](https://leetcode.com/study-plan/algorithm/)
 
 | Title                                                                                                                              | Solution                                                             |
