@@ -41,7 +41,7 @@
 | ------------------------------------------------------------------------ | ------------------------------------------------ |
 | [136. Single Number](https://leetcode.com/problems/single-number/)       | [C++](./DataStructureII/136.SingleNumber.cpp)    |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./DataStructureII/169.MajorityElement.cpp) |
-| [15. 3Sum](https://leetcode.com/problems/3sum/)                          | [C++](./DataStructureII)                         |
+| [15. 3Sum](https://leetcode.com/problems/3sum/)                          | [C++](./DataStructureII/15.3Sum.cpp)             |
 
 # [Algorithm I](https://leetcode.com/study-plan/algorithm/)
 
