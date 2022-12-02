@@ -53,6 +53,8 @@
 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/?envType=study-plan&id=data-structure-ii) | [C++](./DataStructureII/334.IncreasingTripletSubsequence.cpp) |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/?envType=study-plan&id=data-structure-ii)     | [C++](./DataStructureII/238.ProductofArrayExceptSelf.cpp)     |
 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/?envType=study-plan&id=data-structure-ii)                   | [C++](./DataStructureII/560.SubarraySumEqualsK.cpp)           |
+| [415. Add Strings](https://leetcode.com/problems/add-strings/?envType=study-plan&id=data-structure-ii)                                       | [C++](./DataStructureII/415.AddStrings.cpp)                   |
+| [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/?envType=study-plan&id=data-structure-ii)                         | [C++](./DataStructureII/409.LongestPalindrome.cpp)            |
 
 # [Algorithm I](https://leetcode.com/study-plan/algorithm/)
 
