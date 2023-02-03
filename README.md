@@ -55,6 +55,8 @@
 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/?envType=study-plan&id=data-structure-ii)                   | [C++](./DataStructureII/560.SubarraySumEqualsK.cpp)           |
 | [415. Add Strings](https://leetcode.com/problems/add-strings/?envType=study-plan&id=data-structure-ii)                                       | [C++](./DataStructureII/415.AddStrings.cpp)                   |
 | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/?envType=study-plan&id=data-structure-ii)                         | [C++](./DataStructureII/409.LongestPalindrome.cpp)            |
+| [290. Word Pattern](https://leetcode.com/problems/word-pattern/?envType=study-plan&id=data-structure-ii)                                     | [C++](./DataStructureII/290.WordPattern.cpp)                  |
+| [763. Partition Labels](https://leetcode.com/problems/partition-labels/?envType=study-plan&id=data-structure-ii)                             | [C++](./DataStructureII/763.PartitionLabels.cpp)              |
 
 # [Algorithm I](https://leetcode.com/study-plan/algorithm/)
 
