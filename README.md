@@ -57,6 +57,8 @@
 | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/?envType=study-plan&id=data-structure-ii)                         | [C++](./DataStructureII/409.LongestPalindrome.cpp)            |
 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/?envType=study-plan&id=data-structure-ii)                                     | [C++](./DataStructureII/290.WordPattern.cpp)                  |
 | [763. Partition Labels](https://leetcode.com/problems/partition-labels/?envType=study-plan&id=data-structure-ii)                             | [C++](./DataStructureII/763.PartitionLabels.cpp)              |
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/?envType=study-plan&id=data-structure-ii)                                  | [C++](./DataStructureII/49.GroupAnagrams.cpp)                 |
+| [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/?envType=study-plan&id=data-structure-ii)                              | [C++](./DataStructureII/43.MultiplyStrings.cpp)               |
 
 # [Algorithm I](https://leetcode.com/study-plan/algorithm/)
 
