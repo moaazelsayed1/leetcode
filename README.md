@@ -59,6 +59,10 @@
 | [763. Partition Labels](https://leetcode.com/problems/partition-labels/?envType=study-plan&id=data-structure-ii)                             | [C++](./DataStructureII/763.PartitionLabels.cpp)              |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/?envType=study-plan&id=data-structure-ii)                                  | [C++](./DataStructureII/49.GroupAnagrams.cpp)                 |
 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/?envType=study-plan&id=data-structure-ii)                              | [C++](./DataStructureII/43.MultiplyStrings.cpp)               |
+| [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/?envType=study-plan&id=data-structure-ii)                 | [C++](./DataStructureII/187.RepeatedDNASequences.cpp)         |
+| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/?envType=study-plan&id=data-structure-ii)     | [C++](./DataStructureII/5.LongestPalindromicSubstring.cpp)    |
+| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/?envType=study-plan&id=data-structure-ii)                                 | [C++](./DataStructureII/2.AddTwoNumbers.cpp)                  |
+| [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/?envType=study-plan&id=data-structure-ii)                     | [C++](./DataStructureII/142.LinkedListCycleII.cpp)            |
 
 # [Algorithm I](https://leetcode.com/study-plan/algorithm/)
 
